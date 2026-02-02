@@ -48,9 +48,9 @@ Este repositório contém os exemplos das aulas de lógica de programação tran
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/Amy-victor/ProgramasEmJavaLogicaProgramacao.git
+   git clone https://github.com/Amy-Orquidea/ProgramasEmJavaLogicaProgramacao.git
 
 
 >[!NOTE]
 >
->Cada um pode escrever uma nota, está no PDF de Markdown.
+>Primeira Utilização de Java.
